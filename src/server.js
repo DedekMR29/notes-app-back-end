@@ -1,4 +1,4 @@
-const Hapi = require('@Hapi/Hapi');
+const Hapi = require('@hapi/Hapi');
 const routes = require('./routes');
 
 const init = async () => {
